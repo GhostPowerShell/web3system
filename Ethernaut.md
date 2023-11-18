@@ -2,11 +2,11 @@
 Solved tasks:
 * Hello Ethernaut
 * [[Fallback]]
-* 
 
+In process:
+* Fallout
 
 Unsolved tasks:
-* Fallout
 * Coin Flip
 * Telephone
 * Token
