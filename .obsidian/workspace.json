@@ -164,14 +164,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
   "active": "1ebe5da38fbc4ff5",
   "lastOpenFiles": [
-    "Fallback.md",
-    "Ethernaut.md",
     "Pasted image 20231118172110.png",
+    "Ethernaut.md",
+    "Fallback.md",
     "Gas.md",
     "Ethereum.md"
   ]
