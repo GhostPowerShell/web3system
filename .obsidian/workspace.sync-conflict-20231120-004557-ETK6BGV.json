@@ -13,43 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethereum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5869e607a22adf2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Securing Data With Blockchain and AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82e8a56bb651e21c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hack The Box Challenges - Blockchain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc3300ed1262fc36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethernaut.md",
+                "file": "Ethereums.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,17 +23,9 @@
             "id": "53e1eb958beb9608",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7f2fd94465c5d7a3",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Researches.md",
+                "file": "Rubixi Bug.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,14 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethernaut/Fallback.md",
+                "file": "Fallback.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Researches.md",
+                "file": "Ethereums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Researches.md",
+                "file": "Ethereums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Researches.md"
+                "file": "Ethereums.md"
               }
             }
           },
@@ -233,31 +188,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f2fd94465c5d7a3",
+  "active": "af3242c9532ab09a",
   "lastOpenFiles": [
-    "Diploma.md",
-    "Pasted image 20231130132753.png",
-    "Researches.md",
-    "Ethernaut.md",
-    "Ethernaut/Coin Flip.md",
-    "Rubixi Bug.md",
-    "Ethernaut/Fallout.md",
-    "Ethernaut/Fallback.md",
-    "Gas.md",
+    "Fallback.md",
     "Ethereum.md",
-    "Hack The Box Challenges - Blockchain.md",
-    "Securing Data With Blockchain and AI.md",
-    "Pasted image 20231119235238.png",
-    "Ethernaut",
-    "Pasted image 20231119231531.png",
-    "Pasted image 20231119230638.png",
-    "Pasted image 20231119225012.png",
-    "Pasted image 20231118172110.png",
     "Ethereums.md",
+    "Ethernaut.md",
+    "Fallout.md",
+    "Rubixi Bug.md",
     "Vulnerabilities.md",
+    "Gas.md",
+    "Pasted image 20231119235238.png",
+    "Pasted image 20231119231531.png",
     "Pasted image 20231119231535.png",
     "Pasted image 20231119231630.png",
     "Pasted image 20231119231822.png",
-    "Pasted image 20231119231939.png"
+    "Pasted image 20231119231939.png",
+    "Pasted image 20231119231534.png",
+    "Pasted image 20231119231421.png",
+    "Pasted image 20231119230641.png",
+    "Pasted image 20231119230639.png"
   ]
 }
