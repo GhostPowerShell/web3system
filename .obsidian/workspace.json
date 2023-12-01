@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diploma.md",
+                "file": "Diploma (Scheme).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diploma.md",
+                "file": "Diploma (Scheme).md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diploma.md",
+                "file": "Diploma (Scheme).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diploma.md",
+                "file": "Diploma (Scheme).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diploma.md"
+                "file": "Diploma (Scheme).md"
               }
             }
           },
@@ -257,12 +257,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffc9b6b107d2249b",
+  "active": "5030e4b34c36982d",
   "lastOpenFiles": [
     "Diploma/Blockchain-based electronic healthcare record system for healthcare4.0 applications.md",
     "Diploma/Blockchain overview.md",
     "Diploma/Researches.md",
-    "Diploma.md",
+    "Diploma (Scheme).md",
     "LearnWeb3/Gas.md",
     "LearnWeb3",
     "Assets/Pasted image 20231130132753.png",

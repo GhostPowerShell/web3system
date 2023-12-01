@@ -20,16 +20,24 @@
   
 #### **Objectives of the Project**
 
-
+- Explanation what intend to achieve with your blockchain platform
 
 #### **Project Scope**
 
+
 #### **Significance**
+
+- Expected Benefits and Significance in Kazakhstan healthcare sector
+- Short term and long term impacts
 
 #### **Methodology Overview**
 
+- Overview of approach to developing bc platform
+- Mention models, frameworks or methodologies 
 
+#### Structure overview
 
+- Brief roadmap of diploma work
 
 --- 
 ### Analysis :
