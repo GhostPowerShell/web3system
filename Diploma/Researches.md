@@ -1,8 +1,12 @@
 
 ### Checked:
 
-1. K. Wang, J. Dong, Y. Wang and H. Yin, "Securing Data With Blockchain and AI," in _IEEE Access_, vol. 7, pp. 77981-77989, 2019, doi: 10.1109/ACCESS.2019.2921555.
-   [[Securing Data With Blockchain and AI]]
+1. [[Securing Data With Blockchain and AI]]
+   Wang, K., Dong, J., Wang, Y., & Yin, H. (2019). Securing data with blockchain and AI. _IEEE Access_, _7_, 77981–77989. https://doi.org/10.1109/access.2019.2921555
+   
+2. [[Blockchain-based electronic healthcare record system for healthcare4.0 applications]]
+   Tanwar, S., Parekh, K., & Evans, R. (2020). Blockchain-based electronic healthcare record system for healthcare 4.0 applications. _Journal of Information Security and Applications_, _50_, 102407. https://doi.org/10.1016/j.jisa.2019.102407
+   
    
 
 ### In plan:
@@ -23,4 +27,5 @@
    https://ieeexplore.ieee.org/abstract/document/9076552
    
 6. Blockchain-based electronic healthcare record system for healthcare 4.0 applications
+   
    
