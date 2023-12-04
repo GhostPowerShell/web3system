@@ -8,7 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ac80bd0981e605d",
+            "id": "af3242c9532ab09a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LearnWeb3/Ethereum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5869e607a22adf2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diploma/Securing Data With Blockchain and AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82e8a56bb651e21c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hack The Box Challenges - Blockchain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc3300ed1262fc36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethernaut.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "396436fa69637821",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +68,23 @@
             }
           },
           {
+            "id": "53e1eb958beb9608",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "5030e4b34c36982d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diploma/Blockchain overview.md",
+                "file": "Diploma (Scheme).md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1ebe5da38fbc4ff5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -51,25 +99,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "6daa4a31af397acb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a97dacea0af497be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diploma (Report).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diploma (Report).md",
+                "file": "Diploma (Scheme).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diploma (Report).md",
+                "file": "Diploma (Scheme).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diploma (Report).md"
+                "file": "Diploma (Scheme).md"
               }
             }
           },
@@ -206,27 +237,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a97dacea0af497be",
+  "active": "ffc9b6b107d2249b",
   "lastOpenFiles": [
+    "Diploma/Researches.md",
     "Diploma (Scheme).md",
     "Diploma (Report).md",
-    "Diploma/Blockchain overview.md",
-    "Ethernaut.md",
-    "Hack The Box Challenges - Blockchain.md",
-    "Diploma/Securing Data With Blockchain and AI.md",
     "Diploma/Blockchain-based electronic healthcare record system for healthcare4.0 applications.md",
-    "Diploma/Researches.md",
+    "Diploma/Blockchain overview.md",
     "LearnWeb3/Gas.md",
     "LearnWeb3",
     "Assets/Pasted image 20231130132753.png",
     "Assets/Pasted image 20231118172110.png",
     "Assets",
     "Diploma",
+    "Ethernaut.md",
     "LearnWeb3/Ethereum.md",
     "Ethernaut/Coin Flip.md",
     "Rubixi Bug.md",
     "Ethernaut/Fallout.md",
     "Ethernaut/Fallback.md",
+    "Hack The Box Challenges - Blockchain.md",
+    "Diploma/Securing Data With Blockchain and AI.md",
     "Assets/Pasted image 20231119235238.png",
     "Ethernaut",
     "Assets/Pasted image 20231119231531.png",
